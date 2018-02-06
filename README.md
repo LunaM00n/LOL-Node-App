@@ -2,9 +2,9 @@
 Simple Node Security Codes
 
 # Running App
-mkdir nodeapp
-npm init
-npm install express --save
-node xss.js 
-Server is running on http://localhost:3000 
+mkdir nodeapp <br>
+npm init <br>
+npm install express --save<br>
+node xss.js <br>
+Server is running on http://localhost:3000 <br>
 
